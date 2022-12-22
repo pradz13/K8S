@@ -16,5 +16,5 @@ Steps :
 13. Expose the app creating the service : kubectl apply -f service.yaml
 14. Check the service status : kubectl get service
 15. To get the URL type the command : minikube service kubernetes-demo-svc  --url
-16. Application can be accessed by : http://<node ip from step 15>/k8s
+16. Application can be accessed by the URL retrieved at step 15
 17. Dashboard can be launched using the command : minikube dashboard
