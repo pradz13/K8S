@@ -1,0 +1,5 @@
+com/pradz/rest/controller/UserController.class
+com/pradz/rest/entity/User.class
+com/pradz/rest/exception/ResourceNotFoundException.class
+com/pradz/rest/repository/UserRepository.class
+com/pradz/rest/SpringBootCrudRestApplication.class

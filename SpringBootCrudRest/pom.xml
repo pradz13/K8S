@@ -45,4 +45,8 @@
             </exclusions>
         </dependency>
     </dependencies>
+
+    <build>
+        <finalName>SpringBootCrudRest</finalName>
+    </build>
 </project>
